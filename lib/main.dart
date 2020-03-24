@@ -17,7 +17,6 @@ class _MyAppState extends State<MyApp> {
           appBar: AppBar(
               title: Text('contacts'),
               backgroundColor: Colors.purple,
-              centerTitle: true,
               leading: IconButton(
                 icon: Icon(
                   Icons.dehaze,
